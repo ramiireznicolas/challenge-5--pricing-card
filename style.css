@@ -12,6 +12,7 @@ body{
     display: flex;
     justify-content: space-evenly;
     margin-top: 10%;
+    width: 950px;
 }
 
 h2{
@@ -90,6 +91,7 @@ h2{
     .container{
         display: flex;
         flex-direction: column;
+        width: 350px;
     }
 
     .contratos{
